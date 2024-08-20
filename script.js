@@ -13,7 +13,9 @@ document.addEventListener('DOMContentLoaded', function() {
         { product: "Поберегись", nb: 0, pr: 0, mvNb: 0.05, mvPr: 0.05 },
         { product: "Подорожник", nb: 0, pr: 0, mvNb: 0.08, mvPr: 0.03 },
         { product: "НС", nb: 0, pr: 0, mvNb: 0.08, mvPr: 0.03 },
-        { product: "Ипотека", nb: 0, pr: 0, mvNb: 0.02, mvPr: 0.02 }  
+        { product: "Ипотека", nb: 0, pr: 0, mvNb: 0.02, mvPr: 0.02 },  
+        { product: "РЕСО-СМБ!", nb: 0, pr: 0, mvNb: 0.10, mvPr: 0.05 },
+        { product: "Твой заработок", nb: 0, pr: 0, mvNb: 0.10, mvPr: 0.05 }
     ];
 
     function populateTable(tableId, data) {
